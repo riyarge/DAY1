@@ -1,0 +1,22 @@
+p{
+    color: blueviolet
+}
+
+th{
+    color: seagreen
+}
+tr{
+    color:brown
+}
+table{
+    border: 1px solid;
+}
+th{
+    border: 1px solid;
+}
+tr{
+    border: 1px solid;
+}
+table{
+    border-collapse: collapse;
+}
